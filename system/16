@@ -1,0 +1,10 @@
+/etc/cron.d
+/etc/cron.hourly
+/etc/cron.daily
+/etc/cron.weekly
+/etc/cron.monthly
+
+
+* * * * * commande
+
+/etc/init.d/cron start|stop|restart
